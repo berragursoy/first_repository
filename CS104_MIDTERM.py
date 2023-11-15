@@ -1,3 +1,5 @@
+# 1
+
 print(2 * -5 + 4 * 3 + 8 * -5)
 print(24 % 5 + 32.0 / 4 % 3 - 15 % (16 % 9))
 print(str(int("1") + 2 + 3) + "4" + str(5 * 6) + "7")
@@ -29,24 +31,6 @@ elif text == "hello":
     print("hi")
 elif text == "hey":
     print("Hey you!")
-
-# "hello"
-# Output:
-# hello
-# 2
-# 01234
-
-# "hi"
-# Output:
-#
-# "CS 104 is fun"
-# Output:
-# CS 104 is fun
-# 2
-# 01234567
-# "bye"
-# Output:
-#
 
 # 3
 
@@ -89,6 +73,8 @@ elif N_Days_Later == 5:
     print(f'{N} days later is Saturday')
 elif N_Days_Later == 6:
     print(f'{N} days later is Sunday')
+
+
 # 5
 
 
